@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/vmware.vmware/commit/96594d9e364cd177781cc3cff0d0a135ccd437bc",
       "git:hexsha": "96594d9e364cd177781cc3cff0d0a135ccd437bc",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/vmware.vmware/commit/f916e52940fa7f8925467a2fce30be63d995c1e8",
